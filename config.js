@@ -22,8 +22,8 @@
 
 
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""], 
+  TOKEN: "MTI4ODU2ODc5MjI4NDEzNTQzNQ.GoP1FI.XLNUuytA4aV10BBVZt4ZzgCc9o3WPKIKw6hwtw",
+  ownerID: ["205049509049270273", ""], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
