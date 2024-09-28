@@ -19,10 +19,10 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        post : "node.lewdhutao.my.eu.org",
-        port : 80,
-        password : "youshallnotpass",
-        reconnectTimeout: 5000,
+        host: "lava3.horizxon.studio",        
+        port: 80,
+        password: "horizxon.studio",
+        reconnectTimeout: 50000,
         reconnectTries: Infinity,
         secure: false
     },
