@@ -19,9 +19,9 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        post : "lava-all.ajieblogs.eu.org",
+        post : "node.lewdhutao.my.eu.org",
         port : 80,
-        password : "https://dsc.gg/ajidevserver",
+        password : "youshallnotpass",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
